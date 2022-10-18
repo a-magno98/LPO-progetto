@@ -1,0 +1,3 @@
+// tests operator "in" and its priority
+// prints true
+print 1+2 in {1}\/{3} && 2*3 in {6,1}/\{3,6} && 3 in {1} == "3" in {"1"}

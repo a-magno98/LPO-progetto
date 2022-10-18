@@ -1,0 +1,2 @@
+// Syntax error: Unexpected token CLOSE_BLOCK_OR_SET('}')
+print {}

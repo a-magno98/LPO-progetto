@@ -1,0 +1,7 @@
+// tests concatenation
+// prints true
+let e="";
+let s1="one";
+let s2="two";
+let s3="three";
+print e^s1==s1 && s1^e==s1 && s1^s2^s3==s1^(s2^s3) && #s1+#s2==#(s1^s2)

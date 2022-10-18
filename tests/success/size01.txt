@@ -1,0 +1,5 @@
+// tests #
+// prints true
+let str="one";
+let set={1,2,3};
+print #""==0 && #(set/\{0})==0 && #str==#set && #str+#set==6

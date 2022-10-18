@@ -1,0 +1,2 @@
+// Static error: Found INT SET, expected INT SET SET
+print {1} in {1}

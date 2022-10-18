@@ -1,0 +1,3 @@
+// tests priority of union and intersection
+// prints true
+print !({1}\/{1}/\{2}==({1}\/{1})/\{2})

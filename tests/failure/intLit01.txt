@@ -1,0 +1,2 @@
+// Syntax error: Expecting EOF, found IDENT('x')
+print 0x

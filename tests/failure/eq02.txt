@@ -1,0 +1,2 @@
+// Static error: Found STRING SET, expected STRING
+print "1"=={"1"}

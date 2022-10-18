@@ -1,0 +1,9 @@
+// tests while
+// prints true
+let x=1; let y=0; let s={0}/\{1};
+while(!(x==5)){
+    x=x+1;
+    let y=y+1;
+    s=s\/{y}
+};
+print s=={1}

@@ -1,0 +1,4 @@
+// Static error: Found INT, expected BOOL
+while(1){
+	print "ok"
+}

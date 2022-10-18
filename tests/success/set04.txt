@@ -1,0 +1,5 @@
+// tests intersection
+// prints true
+let s={1,2,3,4}/\{5,1,4,6};
+print #s==2 && 1 in s && 4 in s && !(2 in s) && !(5 in s)
+

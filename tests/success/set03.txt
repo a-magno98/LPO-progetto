@@ -1,0 +1,4 @@
+// tests union
+// prints true
+let s={1,2,3,4}\/{5,1,4,6};
+print #s==6 && 1 in s && 2 in s && 3 in s && 4 in s && 5 in s && 6 in s

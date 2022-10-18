@@ -1,0 +1,4 @@
+// tests nested sets
+// prints true
+let s={{1,1},{2,2},{2},{1}};
+print #s==2 && {1} in s && {2,2,2} in s

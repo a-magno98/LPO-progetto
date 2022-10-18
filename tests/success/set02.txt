@@ -1,0 +1,5 @@
+// tests set literals
+// prints true
+let s={1,2,2,1};
+print #s==2 && 1 in s && 2 in s
+
